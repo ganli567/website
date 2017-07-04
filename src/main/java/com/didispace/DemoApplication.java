@@ -18,6 +18,7 @@ public class DemoApplication {
 	public String testLogLevel() {
 		logger.debug("Logger Level ：DEBUG");
 		logger.info("Logger Level ：INFO");
+		logger.warn("Logger Level ：WARN");
 		return "";
 	}
 
