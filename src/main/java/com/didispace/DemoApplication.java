@@ -19,6 +19,7 @@ public class DemoApplication {
 		logger.debug("Logger Level ：DEBUG");
 		logger.info("Logger Level ：INFO");
 		logger.info("Logger Level ：INFO");
+		logger.info("Logger Level ：INFO");
 		return "";
 	}
 
