@@ -19,7 +19,6 @@ public class DemoApplication {
 		logger.debug("Logger Level ：DEBUG");
 		logger.info("Logger Level ：INFO");
 		logger.error("Logger Level ：ERROR");
-		logger.error("My Git ：git");
 		return "";
 	}
 
